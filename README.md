@@ -29,9 +29,10 @@ Este proyecto documenta la implementación de un sistema de información geográ
 - `/output`: Productos finales incluyendo archivo `.kml` para Google Earth y exportación para visualización Web.
 
 ## 🌐 Visualización Interactiva
-> **[VER MAPA INTERACTIVO AQUÍ]** (Reemplazar con tu link de GitHub Pages)
+> ### 🌐 [VER MAPA INTERACTIVO EN VIVO](https://ggarcilazo.github.io/postgis-atu-cobertura-camaras/webmap/qgis2web_2026_02_21-23_03_48_164150/index.html)
+> *(Haga clic en el enlace superior para abrir el visor cartográfico desplegado con Leaflet)*
 
 ![Vista del Proyecto en QGIS](output/mapa_cobertura_final.png)
 
 ---
-**Desarrollado por:** Joaquin - Ingeniería de Sistemas
+**Desarrollado por:** Giovanni Garcilazo - Ingeniería de Sistemas
