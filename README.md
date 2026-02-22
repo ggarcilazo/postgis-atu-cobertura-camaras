@@ -31,7 +31,7 @@ Este proyecto documenta la implementación de un sistema de información geográ
 ## 🌐 Visualización Interactiva
 > **[VER MAPA INTERACTIVO AQUÍ]** (Reemplazar con tu link de GitHub Pages)
 
-![Vista del Proyecto en QGIS](map/mapa_cobertura_final.png)
+![Vista del Proyecto en QGIS](ouputs/mapa_cobertura_final.png)
 
 ---
 **Desarrollado por:** Joaquin - Ingeniería de Sistemas
